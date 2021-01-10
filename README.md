@@ -1,2 +1,2 @@
 # PYTHON
-Compiation of basic Python Programming
+Compilation of basic Python Programming and Algorithum 
